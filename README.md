@@ -193,6 +193,14 @@ Feel free to check the [issues page](https://github.com/KavyaSaraswat23/Hactober
 
 ---
 
+## 👤 Author
+
+**Kavya Saraswat**
+- GitHub: [@KavyaSaraswat23](https://github.com/KavyaSaraswat23)
+- Email: [kavyasaraswat4@gmail.com](mailto:kavyasaraswat4@gmail.com)
+
+---
+
 ## 📜 License
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
@@ -202,4 +210,3 @@ Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more infor
 <div align="center">
   <sub>Built with 💛 and marigold petals for Hacktoberfest 2026. ¡Que vivan los recuerdos!</sub>
 </div>
-# Hactober_week4
